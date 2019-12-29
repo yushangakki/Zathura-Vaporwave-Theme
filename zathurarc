@@ -1,0 +1,14 @@
+map p print
+#set window-title-page true
+set guioptions none
+set statusbar-bg                "#ffffff"
+set statusbar-fg                "#000000"
+# Vaporwave Theme
+set recolor-lightcolor          "#16233f" 
+set recolor-darkcolor           "#93bbda" 
+set recolor                     "true"
+set adjust-open width
+set selection-clipboard clipboard
+map [normal]     <C-l> reload
+map [fullscreen] <C-l> reload
+set window-icon ~/Document.icns
